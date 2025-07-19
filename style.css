@@ -1,0 +1,123 @@
+
+body{
+ 
+    text-align:left;
+
+ font-family:open sans,sans-serif;
+ background-color:#FFB6C1;
+ color:black;
+ margin: 70;
+ background-position: center;
+ background-size: cover;
+ background-repeat: no-repeat;
+ min-height: 100vh;
+
+  }
+.container{
+  max-width:1400px ;
+  padding:3% ;
+  margin:0 auto ;
+  }
+ 
+
+
+nav ul{
+list-style: nome;
+text-align:center;
+}
+nav ul li {
+  display: inline-block;
+
+ }
+
+ nav ul li a {
+  padding:10px 20px ;
+   text-decoration: nome;
+   font-size: 19px;
+   color:#f1efee  ; 
+   border-radius: 30px;
+   transition: 0.6s;
+   background-color:#da3c88;
+   
+}
+
+
+
+  
+h1{
+  text-align: center;
+ font-variant-numeric:  size 70px;
+}
+ h2{
+  text-align: center;
+ color: #5340a5; ;
+  font-size: 30px;
+ 
+ }
+ 
+ .titulo-n1{
+  text-align: center;
+  color:#5340a5;
+ }
+ .titulo-n2{
+  text-align: center;
+  color:#5340a5
+ }
+ .titulo-branco{
+  text-align: center;
+  color: aliceblue;
+ }
+ .titulo-n3{
+   text-align: center;
+  color:#5340a5;
+ }
+
+ section{
+  
+ width:60%; 
+ margin:0 auto;
+ border: 1px  ;
+}
+ section section{
+  width: 100%;
+}
+h1{
+  font-size: 60x;
+  font-weight: 300;
+  
+}
+
+h3{
+  font-size:22px;
+  font-style: italic;
+ 
+}
+
+
+p{
+  line-height: 1.5;
+  font-size: 20px;
+}
+.principal ul li a{
+
+ color: black;
+ margin-center: 100px;
+ text-decoration: none;
+ background-color:#FFB6C1
+ }
+ 
+  
+ button{
+ background-color:#41f341 ;
+ border: 1px solid transparent;
+  padding: 2px 20px;
+  border-radius: 3px;
+ }
+
+
+
+
+
+
+
+
